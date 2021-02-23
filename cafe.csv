@@ -1,0 +1,49 @@
+﻿Month,Product,Purchase price,Qty in stock,Selling price,Qty sold
+January,Green Tea, $0.85 ,2074, $2.00 ,560
+January,Black Coffee, $1.70 ,3000, $1.00 ,450
+January,Cupcakes, $2.55 ,776, $3.00 ,450
+January,Cakes, $3.40 ,347, $4.00 ,250
+February,Green Tea, $1.10 ,952, $0.81 ,752
+February,Black Coffee, $0.61 ,2122, $0.92 ,1538
+February,Cupcakes, $0.85 ,2194, $1.50 ,981
+February,Cakes, $1.22 ,2871, $1.70 ,1212
+March,Green Tea, $0.78 ,2402, $1.05 ,349
+March,Black Coffee, $0.87 ,2766, $0.99 ,286
+March,Cupcakes, $0.25 ,824, $0.94 ,223
+March,Cakes, $2.49 ,269, $2.65 ,85
+April,Green Tea, $0.35 ,4693, $0.55 ,637
+April,Black Coffee, $1.90 ,1135, $2.02 ,984
+April,Cupcakes, $1.15 ,1261, $1.17 ,691
+April,Cakes, $3.09 ,1302, $3.30 ,954
+May,Green Tea, $0.55 ,2446, $0.60 ,1812
+May,Black Coffee, $0.41 ,1579, $0.74 ,1361
+May,Cupcakes, $1.45 ,1777, $2.05 ,1599
+May,Cakes, $1.87 ,1293, $2.04 ,1150
+June,Green Tea, $1.71 ,811, $2.07 ,508
+June,Black Coffee, $0.14 ,1690, $0.71 ,825
+June,Cupcakes, $0.94 ,1923, $1.18 ,570
+June,Cakes, $1.59 ,694, $1.86 ,425
+July,Green Tea, $0.68 ,1347, $1.68 ,378
+July,Black Coffee, $1.03 ,1890, $1.25 ,230
+July,Cupcakes, $1.60 ,527, $1.82 ,165
+July,Cakes, $6.06 ,675, $6.22 ,399
+August,Green Tea, $1.23 ,2982, $1.45 ,1137
+August,Black Coffee, $0.96 ,1335, $1.33 ,958
+August,Cupcakes, $7.13 ,1574, $8.22 ,833
+August,Cakes, $3.35 ,1368, $4.55 ,784
+September,Green Tea, $1.10 ,558, $1.15 ,352
+September,Black Coffee, $1.67 ,2555, $1.87 ,644
+September,Cupcakes, $2.63 ,3230, $2.96 ,770
+September,Cakes, $1.65 ,1224, $1.99 ,560
+October,Green Tea, $1.34 ,3461, $1.41 ,613
+October,Black Coffee, $1.22 ,4968, $1.56 ,756
+October,Cupcakes, $5.65 ,3411, $6.33 ,543
+October,Cakes, $13.38 ,2404, $14.79 ,669
+November,Green Tea, $1.25 ,4465, $1.27 ,1161
+November,Black Coffee, $1.61 ,2912, $2.14 ,1208
+November,Cupcakes, $2.81 ,2563, $2.82 ,1000
+November,Cakes, $1.84 ,3138, $1.92 ,1880
+December,Green Tea, $0.59 ,1000, $0.72 ,875
+December,Black Coffee, $1.47 ,1300, $1.80 ,1090
+December,Cupcakes, $3.57 ,1736, $4.85 ,1337
+December,Cakes, $10.02 ,1200, $12.09 ,972
