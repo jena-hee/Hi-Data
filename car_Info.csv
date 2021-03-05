@@ -1,0 +1,105 @@
+id,car name,Kinds_1,Kinds_2,kinds_code,Engine_L,Cylinders,Weight,Wheel,Length,Width,Retail_price,Invoice_price,make_id
+2004 - 001,Ford Focus ZX3 2dr hatch  ,Hatchback,2WD,22 - 2w,2,4,2612,103,168,67,13270,12482,502
+2004 - 002,Ford Focus SE 4dr   ,Sedan,2WD,11 - 2w,2,4,2606,103,168,67,15460,14496,502
+2004 - 003,Ford Focus ZX5 5dr   ,Sedan,2WD,11 - 2w,2,4,2691,103,168,67,15580,14607,502
+2004 - 004,Honda Civic DX 2dr   ,Sedan,2WD,11 - 2w,1.7,4,2432,103,175,67,13270,12175,201
+2004 - 005,Honda Civic HX 2dr   ,Sedan,2WD,11 - 2w,1.7,4,2500,103,175,67,14170,12996,201
+2004 - 006,Honda Civic LX 4dr   ,Sedan,2WD,11 - 2w,1.7,4,2513,103,175,68,15850,14531,201
+2004 - 007,Kia Optima LX 4dr   ,Sedan,2WD,11 - 2w,2.4,4,3281,106,186,72,16040,14910,301
+2004 - 008,Kia Rio 4dr manual   ,Sedan,2WD,11 - 2w,1.6,4,2403,95,167,66,10280,9875,301
+2004 - 009,Kia Rio 4dr auto   ,Sedan,2WD,11 - 2w,1.6,4,2458,95,167,66,11155,10705,301
+2004 - 010,Nissan Sentra 1.8 4dr   ,Sedan,2WD,11 - 2w,1.8,4,2513,100,178,67,12740,12205,202
+2004 - 011,Nissan Sentra 1.8 S 4dr  ,Sedan,2WD,11 - 2w,1.8,4,2581,100,178,67,14740,13747,202
+2004 - 012,Dodge Intrepid SE 4dr   ,Sedan,2WD,11 - 2w,2.7,6,3469,113,204,75,22035,20502,501
+2004 - 013,Dodge Stratus SE 4dr   ,Sedan,2WD,11 - 2w,2.4,4,3175,108,191,71,20220,18821,501
+2004 - 014,Hyundai Sonata GLS 4dr   ,Sedan,2WD,11 - 2w,2.7,6,3217,106,187,72,19339,17574,301
+2004 - 015,Hyundai Sonata LX 4dr   ,Sedan,2WD,11 - 2w,2.7,6,3217,106,187,72,20339,18380,301
+2004 - 016,Kia Optima LX V6 4dr  ,Sedan,2WD,11 - 2w,2.7,6,3279,106,186,72,18435,16850,301
+2004 - 017,Nissan Sentra SE-R 4dr   ,Sedan,2WD,11 - 2w,2.5,4,2761,100,178,67,17640,16444,202
+2004 - 018,Volkswagen Golf GLS 4dr   ,Sedan,2WD,11 - 2w,2,4,2897,99,165,68,18715,17478,102
+2004 - 019,Volkswagen GTI 1.8T 2dr hatch  ,Hatchback,2WD,22 - 2w,1.8,4,2934,99,168,68,19825,18109,102
+2004 - 020,Volkswagen New Beetle GLS 1.8T 2dr ,Sedan,2WD,11 - 2w,1.8,4,2820,99,161,68,21055,19638,102
+2004 - 021,Acura RSX Type S 2dr  ,Sedan,2WD,11 - 2w,2,4,2778,101,172,68,23820,21761,201
+2004 - 022,Acura TSX 4dr    ,Sedan,2WD,11 - 2w,2.4,4,3230,105,183,69,26990,24647,201
+2004 - 023,Chrysler Concorde LX 4dr   ,Sedan,2WD,11 - 2w,2.7,6,3479,113,208,74,24130,22452,501
+2004 - 024,Chrysler Concorde LXi 4dr   ,Sedan,2WD,11 - 2w,3.5,6,3548,113,208,74,26860,24909,501
+2004 - 025,Chrysler Sebring convertible 2dr   ,Sedan,2WD,11 - 2w,2.4,4,3357,106,194,64,25215,23451,501
+2004 - 026,Dodge Intrepid ES 4dr   ,Sedan,2WD,11 - 2w,3.5,6,3487,113,204,75,24885,23058,501
+2004 - 027,Honda Accord LX V6 4dr  ,Sedan,2WD,11 - 2w,3,6,3349,108,190,72,23760,21428,201
+2004 - 028,Honda Accord EX V6 2dr  ,Sedan,2WD,11 - 2w,3,6,3294,105,188,71,26960,24304,201
+2004 - 029,Hyundai XG350 4dr    ,Sedan,2WD,11 - 2w,3.5,6,3651,108,192,72,24589,22055,301
+2004 - 030,Hyundai XG350 L 4dr   ,Sedan,2WD,11 - 2w,3.5,6,3651,108,192,72,26189,23486,301
+2004 - 031,Infiniti G35 4dr    ,Pickup,RWD,32 - r,3.5,6,3336,112,187,69,28495,26157,202
+2004 - 032,Infiniti G35 Sport Coupe 2dr  ,Pickup,RWD,32 - r,3.5,6,3416,112,182,72,29795,27536,202
+2004 - 033,Kia Amanti 4dr    ,Sedan,2WD,11 - 2w,3.5,6,*,110,196,73,26000,23764,301
+2004 - 034,Volkswagen New Beetle GLS convertible 2dr ,Sedan,2WD,11 - 2w,2,4,3082,99,161,68,23215,21689,102
+2004 - 035,Volkswagen Passat GLS 4dr   ,Sedan,2WD,11 - 2w,1.8,4,3241,106,185,69,23955,21898,102
+2004 - 036,Volvo S40 4dr    ,Sedan,2WD,11 - 2w,1.9,4,2767,101,178,68,25135,23701,402
+2004 - 037,Chrysler Sebring Limited convertible 2dr  ,Sedan,2WD,11 - 2w,2.7,6,3448,106,194,69,30950,28613,501
+2004 - 038,Ford Crown Victoria LX Sport 4dr ,Pickup,RWD,32 - r,4.6,8,4057,115,212,78,30315,27756,502
+2004 - 039,Infiniti G35 4dr    ,Pickup,4WD,32 - 4w,3.5,6,3677,112,187,69,32445,29783,202
+2004 - 040,Mercury Grand Marquis LS Ultimate 4dr ,Pickup,RWD,32 - r,4.6,8,4052,115,212,78,30895,28318,502
+2004 - 041,Mercury Marauder 4dr    ,Pickup,RWD,32 - r,4.6,8,4195,115,212,78,34495,31558,502
+2004 - 042,Saab 44077 Arc Sport 4dr  ,Sedan,2WD,11 - 2w,2,4,3175,105,183,69,30860,29269,401
+2004 - 043,Saab 44077 Aero 4dr   ,Sedan,2WD,11 - 2w,2,4,3175,105,183,69,33360,31562,401
+2004 - 044,Saab 44079 Arc 4dr   ,Sedan,2WD,11 - 2w,2.3,4,3470,106,190,71,35105,33011,401
+2004 - 045,Saab 44079 Aero 4dr   ,Sedan,2WD,11 - 2w,2.3,4,3470,106,190,71,39465,37721,401
+2004 - 046,Volkswagen Passat GLX V6 4MOTION 4dr ,Sedan,2WD,11 - 2w,2.8,6,3721,106,185,69,33180,30583,102
+2004 - 047,Volkswagen Passat W8 4MOTION 4dr  ,Sedan,2WD,11 - 2w,4,8,3953,106,185,69,39235,36052,102
+2004 - 048,Volvo S60 2.5 4dr   ,Pickup,4WD,32 - 4w,2.5,5,3903,107,180,71,31745,29916,402
+2004 - 049,Volvo S60 T5 4dr   ,Sedan,2WD,11 - 2w,2.3,5,3766,107,180,71,34845,32902,402
+2004 - 050,Volvo S60 R 4dr   ,Pickup,4WD,32 - 4w,2.5,5,3571,107,181,71,37560,35382,402
+2004 - 051,Volvo S80 2.9 4dr   ,Sedan,2WD,11 - 2w,2.9,6,3576,110,190,72,37730,35542,402
+2004 - 052,Infiniti Q45 Luxury 4dr   ,Pickup,RWD,32 - r,4.5,8,3977,113,200,73,52545,47575,202
+2004 - 053,Saab 44077 Arc convertible 2dr  ,Sedan,2WD,11 - 2w,2,4,3480,105,182,69,40670,38520,401
+2004 - 054,Saab 44077 Aero convertible 2dr  ,Sedan,2WD,11 - 2w,2,4,3700,105,182,69,43175,40883,401
+2004 - 055,Volkswagen Phaeton 4dr    ,Sedan,2WD,11 - 2w,4.2,8,5194,118,204,75,65000,59912,102
+2004 - 056,Volkswagen Phaeton W12 4dr   ,Sedan,2WD,11 - 2w,6,12,5399,118,204,75,75000,69130,102
+2004 - 057,Volvo C70 HPT convertible 2dr  ,Sedan,2WD,11 - 2w,2.3,5,3450,105,186,72,42565,40083,402
+2004 - 058,Volvo S80 T6 4dr   ,Sedan,2WD,11 - 2w,2.9,6,3653,110,190,72,45210,42573,402
+2004 - 059,Chrysler Crossfire 2dr    ,Sportcar,RWD,21 - r,3.2,6,3060,95,160,70,34495,32033,501
+2004 - 060,Dodge Viper SRT-10 convertible 2dr  ,Sportcar,RWD,21 - r,8.3,10,3410,99,176,75,81795,74451,501
+2004 - 061,Ford Mustang 2dr (convertible)   ,Sportcar,2WD,21 - 2w,3.8,6,3290,101,183,73,18345,16943,502
+2004 - 062,Ford Mustang GT Premium convertible 2dr ,Sportcar,RWD,21 - r,4.6,8,3347,101,183,73,29380,26875,502
+2004 - 063,Ford Thunderbird Deluxe convert w/hardtop 2dr ,Sportcar,2WD,21 - 2w,3.9,8,3780,107,186,72,37530,34483,502
+2004 - 064,Hyundai Tiburon GT V6 2dr  ,Sportcar,2WD,21 - 2w,2.7,6,3023,100,173,69,18739,17101,301
+2004 - 065,Porsche 911 Carrera convertible 2dr (coupe) ,Sportcar,RWD,21 - r,3.6,6,3135,93,175,70,79165,69229,101
+2004 - 066,Porsche 911 Carrera 4S coupe 2dr (convert),Sportcar,4WD,21 - 4w,3.6,6,3240,93,175,72,84165,72206,101
+2004 - 067,Porsche Boxster convertible 2dr   ,Sportcar,RWD,21 - r,2.7,6,2811,95,170,70,43365,37886,101
+2004 - 068,Porsche Boxster S convertible 2dr  ,Sportcar,RWD,21 - r,3.2,6,2911,95,170,70,52365,45766,101
+2004 - 069,Dodge Durango SLT    ,SUV,4WD,12 - 4w,4.7,8,4987,119,201,76,32235,29472,501
+2004 - 070,Ford Excursion 6.8 XLT   ,SUV,4WD,12 - 4w,6.8,10,7190,137,227,80,41475,36494,502
+2004 - 071,Ford Explorer XLT V6   ,SUV,4WD,12 - 4w,4,6,4463,114,190,72,29670,26983,502
+2004 - 072,Kia Sorento LX    ,SUV,2WD,12 - 2w,3.5,6,4112,107,180,73,19635,18630,301
+2004 - 073,Mercury Mountaineer 0    ,Sportcar,2WD,21 - 2w,4,6,4374,114,190,72,29995,27317,502
+2004 - 074,Porsche Cayenne S    ,SUV,4WD,12 - 4w,4.5,8,4950,112,188,76,56665,49865,101
+2004 - 075,Volkswagen Touareg V6    ,SUV,4WD,12 - 4w,3.2,6,5086,112,187,76,35515,32243,102
+2004 - 076,Volvo XC90 T6    ,SUV,4WD,12 - 4w,2.9,6,4638,113,189,75,41250,38851,402
+2004 - 077,Ford Escape XLS    ,SUV,4WD,12 - 4w,3,6,3346,103,173,70,22515,20907,502
+2004 - 078,Hyundai Santa Fe GLS   ,SUV,2WD,12 - 2w,2.7,6,3549,103,177,73,21589,20201,301
+2004 - 079,Jeep Wrangler Sahara convertible 2dr  ,SUV,4WD,12 - 4w,4,6,3575,93,150,67,25520,23275,501
+2004 - 080,Chrysler Pacifica 0    ,SUV,4WD,12 - 4w,3.5,6,4675,116,199,79,31230,28725,501
+2004 - 081,Ford Focus ZTW    ,Wagon,2WD,13 - 2w,2,4,2702,103,178,67,17475,16375,502
+2004 - 082,Infiniti FX35 0    ,SUV,"4WD, RWD",12 - 4r,3.5,6,4056,112,189,76,34895,31756,202
+2004 - 083,Infiniti FX45 0    ,Pickup,RWD,32 - r,4.5,8,4309,112,189,76,36395,33121,202
+2004 - 084,Kia Rio Cinco    ,Wagon,2WD,13 - 2w,1.6,4,2447,95,167,66,11905,11410,301
+2004 - 085,Mercury Sable GS    ,Wagon,2WD,13 - 2w,3,6,3488,109,198,73,22595,20748,502
+2004 - 086,Saab 44079 Aero    ,Wagon,2WD,13 - 2w,2.3,4,3620,106,190,71,40845,38376,401
+2004 - 087,Volkswagen Passat GLS 1.8T   ,Wagon,2WD,13 - 2w,1.8,4,3338,106,184,69,24955,22801,102
+2004 - 088,Volkswagen Passat W8    ,Wagon,2WD,13 - 2w,4,8,4067,106,184,69,40235,36956,102
+2004 - 089,Volvo XC70 0    ,Pickup,2WD,32 - 2w,2.5,5,3823,109,186,73,35145,33112,402
+2004 - 090,Chrysler Town and Country LX  ,Minivan,2WD,31 - 2w,3.3,6,4068,119,201,79,27490,25371,501
+2004 - 091,Dodge Caravan SE    ,Minivan,2WD,31 - 2w,2.4,4,3862,113,189,79,21795,20508,501
+2004 - 092,Dodge Grand Caravan SXT   ,Minivan,4WD,31 - 4w,3.8,6,4440,119,201,79,32660,29812,501
+2004 - 093,Ford Freestar SE    ,Minivan,2WD,31 - 2w,3.9,6,4275,121,201,77,26930,24498,502
+2004 - 094,Honda Odyssey LX    ,Minivan,2WD,31 - 2w,3.5,6,4310,118,201,76,24950,22498,201
+2004 - 095,Honda Odyssey EX    ,Minivan,2WD,31 - 2w,3.5,6,4365,118,201,76,27450,24744,201
+2004 - 096,Kia Sedona LX    ,Minivan,2WD,31 - 2w,3.5,6,4802,115,194,75,20615,19400,301
+2004 - 097,Mercury Monterey Luxury    ,Minivan,2WD,31 - 2w,4.2,6,4340,121,202,77,33995,30846,502
+2004 - 098,Nissan Quest S    ,Minivan,2WD,31 - 2w,3.5,6,4012,124,204,78,24780,22958,202
+2004 - 099,Nissan Quest SE    ,Minivan,2WD,31 - 2w,3.5,6,4175,124,204,78,32780,30019,202
+2004 - 100,Dodge Ram 1500 Regular Cab ST ,Pickup,RWD,32 - r,3.7,6,4542,121,*,*,20215,18076,501
+2004 - 101,Ford F-150 Regular Cab XL  ,Pickup,RWD,32 - r,4.6,8,4788,126,*,*,22010,19490,502
+2004 - 102,Ford Ranger 2.3 XL Regular Cab ,Pickup,RWD,32 - r,2.3,4,3028,111,*,*,14385,13717,502
+2004 - 103,Nissan Frontier King Cab XE V6 ,Pickup,4WD,32 - 4w,3.3,6,3932,116,*,*,19479,18253,202
+2004 - 104,Nissan Titan King Cab XE  ,Pickup,4WD,32 - 4w,5.6,8,5287,140,*,*,26650,24926,202
